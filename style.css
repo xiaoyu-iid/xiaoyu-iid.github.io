@@ -70,6 +70,11 @@ h2 {
 	font:italic 17px "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
+h3 {
+	color:#aaaaaa;
+	font:italic 17px "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
 #footnote {
 	text-align: right;
 	font:normal 14px "Palatino Linotype", "Book Antiqua", Palatino, serif;
